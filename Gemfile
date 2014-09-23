@@ -51,7 +51,3 @@ end
 gem 'newrelic_rpm'
 
 
-
-
-
-
